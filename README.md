@@ -1,6 +1,5 @@
 # ZTA-for-AWS
- Zero Trust Architecture for AWS infrastructure, enhancing database and network security.
-
+ Zero Trust Architecture for AWS Platform with Infrastructure, Database and Network Protection.
 
 
  ## License
